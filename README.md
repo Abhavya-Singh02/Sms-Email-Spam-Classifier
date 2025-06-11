@@ -40,3 +40,8 @@ After thorough experimentation, the **Multinomial Naive Bayes** classifier emerg
 
 The model has been deployed using **Streamlit**, offering a simple and interactive web interface:
 
+## App and Dataset link
+
+App - [Email/Spam-Classifier](https://sms-email-spam-classifier-fqgisbq8kjkcpkw4fhedbz.streamlit.app/)
+Dataset - [uciml-sms-spam-collection-dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset)
+
